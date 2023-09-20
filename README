@@ -9,6 +9,9 @@ Dolphin Memory Engine
 IEEE-754 Floating Point Converter (online tool)
 Any hex calculator (Windows calculator in programming mode is good)
 Any text editing program (Notepad works fine)
+powerpc-gekko-as (CodeWrite/asmwiird has this file)
+powerpc-gekko-objcopy (CodeWrite/asmwiird has this file)
+IBM PowerPC 5.1 ASM Guide
 
 RECOMMENDED TOOLS:
 Ghidra (for advanced decompilation)
@@ -18,8 +21,8 @@ Notepad++ (hex text searching)
     - Hex Editor plugin
 GCRebuilder (alternative to PyIsoTools)
 Blender (for creating/modifying game models)
-ASMWiiRD (converts assembly to hex quickly)
-CodeWrite (alternative to ASMWiiRD)
+asmwiird (converts assembly to hex quickly)
+CodeWrite (alternative to asmwiird)
 
 MISC TOOLS:
 There are a lot of tools out there for 
