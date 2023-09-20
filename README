@@ -1,1 +1,30 @@
-Hi
+REQUIRED TOOLS:
+An .iso or .nkit of the game you want to mod
+Visual Studio Code
+    - PowerPC Syntax extension
+PyIsoTools
+Dolphin Developer Version (recommend v. 5.0-5971)
+    - Will need to be ran with option -d (watch video)
+Dolphin Memory Engine
+IEEE-754 Floating Point Converter (online tool)
+Hex Calculator 
+Any text editing program
+
+RECOMMENDED TOOLS:
+Ghidra (for advanced decompilation)
+    -Gekko Broadway Language
+GodBolt (online compiler for decompilation)
+Notepad++ (hex text searching)
+    - Hex Editor plugin
+GCRebuilder (alternative to PyIsoTools)
+Blender (for creating/modifying game models)
+ASMWiiRD (converts assembly to hex quickly)
+CodeWrite (alternative to ASMWiiRD)
+
+MISC TOOLS:
+There are a lot of tools out there for 
+extracting game specific assets and/or modifying them.
+The game you are modding may have a modding community on Discord/elsewhere 
+that can point you in the right direction to tools for your chosen game.
+Otherwise, browser searches will often require some digging to find things.
+Either way, be careful about what you download.
