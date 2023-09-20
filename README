@@ -7,8 +7,8 @@ Dolphin Developer Version (recommend v. 5.0-5971)
     - Will need to be ran with option -d (watch video)
 Dolphin Memory Engine
 IEEE-754 Floating Point Converter (online tool)
-Hex Calculator 
-Any text editing program
+Any hex calculator (Windows calculator in programming mode is good)
+Any text editing program (Notepad works fine)
 
 RECOMMENDED TOOLS:
 Ghidra (for advanced decompilation)
