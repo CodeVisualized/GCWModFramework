@@ -10,7 +10,7 @@ REQUIRED TOOLS:
 An .iso or .nkit of the game you want to mod
 Visual Studio Code
     - PowerPC Syntax extension
-PyIsoTools (for Gamecube games)
+PyIsoTools (for GameCube games)
 Dolphin Developer Version (recommend v. 5.0-5971)
     - Will need to be ran with option -d (watch video)
 Dolphin Memory Engine
